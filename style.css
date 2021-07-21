@@ -1,0 +1,65 @@
+.main{
+    background-color: #f5e5b6;
+    ;
+}
+.navbar{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    height: 100px;
+    background-color:#2e2407;
+}
+.navbar img{
+    border:2px  dashed crimson;
+    border-radius: 1%;
+}
+.nav-item{
+    padding-right: 10%;
+
+}
+.nav-item a{
+    color: white;
+    text-decoration: none;
+    justify-content:space-evenly;
+    text-align: center;
+}
+.nav-item :hover{
+    text-decoration: none;
+    color: grey;
+}
+
+.Contact{
+    background-color: #f5e5b6;
+    margin-left: 5%;
+    margin-right: 10%;
+    padding-left: 20px;
+    
+}
+.Contact img{
+    width:200;
+    height: 200;
+    border:2px solid brown;
+    border-radius: 2px;
+    display: inline-flex;
+    align-content: right;
+    
+}
+.form{
+    justify-items: normal;
+    text-align: left;
+    width:95%;
+    margin-right: 10%;
+    display: flex;
+    padding-left: 20px;
+    
+}
+
+.form button{
+    border:2px solid rgb(20, 18, 18);
+}
+.footer{
+    text-align: center;
+    background: linear-gradient(to right, #fdbc08 0%, #55e7a0 100%);
+    bottom: 0%;
+    height: 40px;
+}
+
